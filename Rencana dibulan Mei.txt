@@ -1,4 +1,6 @@
 Planning
 
 - introduction Python from Beginner to Advanced
+    * why is Python ?
+    * Basic Python
 - watching Courses Online
