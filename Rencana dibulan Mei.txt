@@ -3,5 +3,10 @@ Planning
 - introduction Python from Beginner to Advanced
     * why is Python ?
     * Basic Python
+        - type variable
+        - list
+        - dictionary
+        - numpy
+        - pandas
 - watching Courses Online
 - See theory about SQL
