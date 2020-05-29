@@ -4,3 +4,4 @@ Planning
     * why is Python ?
     * Basic Python
 - watching Courses Online
+- See theory about SQL
