@@ -8,8 +8,8 @@ Learning Pathways
     - Tableau
     - Google Data Studio
 - Introduction Machine Learning   
-- Neural Network
 - Statistik Inferen
 - Reading at Medium every day this one 
 - Build Project
 - Review Courses in Udemy
+- Learn visual data
