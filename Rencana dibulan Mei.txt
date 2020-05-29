@@ -12,3 +12,5 @@ Planning
     * learn about data 
     * add other skill needed 
 - See theory about SQL
+- belajar bagaimana memvisualisasikan data ang benar
+    * tipe-tipe plot dan kegunaanya 
