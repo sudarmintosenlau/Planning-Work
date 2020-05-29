@@ -1,0 +1,13 @@
+RENCANA BELAJAR BULAN JUNI
+Learning Pathways 
+
+- Application
+    - Python
+    - SQL (Sequel Query Language)
+    - R
+    - Tableau
+    - Google Data Studio
+- Introduction Machine Learning   
+- Neural Network
+- Statistik Inferen
+- Reading at Medium every day this one 
