@@ -9,4 +9,6 @@ Planning
         - numpy
         - pandas
 - watching Courses Online
+    * learn about data 
+    * add other skill needed 
 - See theory about SQL
